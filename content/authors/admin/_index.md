@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: 尚宇鹏
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yupeng
+last_name: Shang
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 😂
 
 # Is this the primary user of the site?
 superuser: true
@@ -28,16 +28,16 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: '202312490591@nuist.edu.cn'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://github.com/dpnbb
+  # - icon: brands/linkedin
+  #   url: https://www.linkedin.com/
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
 
 education:
   - area: PhD Artificial Intelligence
